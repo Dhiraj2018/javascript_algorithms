@@ -1,0 +1,28 @@
+let names =["Dhiraj","suraj","Manoj"];
+let values=[true,{}],[],2]
+They are ordered , each item has the index
+access O(1)
+insertion   
+    at end O(1)
+    at beginning O(n) since indexing are messed up and we have to reindex every single element of the array
+
+delete
+    at end O(1)
+    from beginning O(n)
+
+searching
+    unsorted data o(n)
+
+Methods
+push o(1)
+pop o(1)
+shift o(n)
+unshift o(n)
+concat o(n)
+slice o(n)
+splice o(n)
+sort O(n * logN)
+forEach/map/filter/reduct O(n)
+
+
+
