@@ -1,0 +1,31 @@
+Objects
+
+Object are unordered key value pairs 
+let person = {
+    name: "Dhiraj",
+    title:"Dr"
+    age: 30
+    favouriteColor:["red","green"]
+}
+
+Used when
+Dont need order
+fast access /insertion and removal
+
+Insertion - O(1) constant time
+removal O(1)
+searching O(n) Linear time
+access  O(1)
+
+no beginning or order
+
+Methods
+
+Object.keys  O(n)
+Object.values O(n)
+Object.entries O(n)
+hasOwnProperty  O(1)
+
+
+
+
